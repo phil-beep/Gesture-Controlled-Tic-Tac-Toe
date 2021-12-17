@@ -7,6 +7,8 @@ This project was made during our college course "Interaction" at TH Nürnberg. T
 ### 1. Download and install OpenFrameworks
 - Visit https://openframeworks.cc/download/ and download the library for your operating system.
 - Unzip the folder into your IDEs projects folder (we will call it OF-root directory in the following readme)
+- Download the addon oxfCv from https://github.com/kylemcdonald/ofxCv/archive/master.zip 
+- Unzip and rename it into ofxCv, then put it into the OF-root directory into /addons/
 - THAT'S IT !
 
 ### 2. Preparing an OpenFrameworks project for your IDE
